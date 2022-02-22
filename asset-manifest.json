@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlive-/static/css/main.1eab8101.css",
+    "main.js": "/reactlive-/static/js/main.9178e2f2.js",
+    "static/media/c++.jpg": "/reactlive-/static/media/c++.57d4ce2e209f64a74cc0.jpg",
+    "static/media/lion.jpg": "/reactlive-/static/media/lion.139b2cf6c66a80a63eac.jpg",
+    "static/media/Home.svg": "/reactlive-/static/media/Home.f4a3fb8f00812ef05f41fa06a880f1be.svg",
+    "static/media/blockchain.jfif": "/reactlive-/static/media/blockchain.14f24578c33061924461.jfif",
+    "static/media/c.jfif": "/reactlive-/static/media/c.d9edcfa7e9030ea421ee.jfif",
+    "static/media/download.jfif": "/reactlive-/static/media/download.6136dea7a81f4e74988a.jfif",
+    "static/media/python.jfif": "/reactlive-/static/media/python.61134094b8435b89b6bd.jfif",
+    "static/media/java.jfif": "/reactlive-/static/media/java.3bbdf6897a529299ab6b.jfif",
+    "index.html": "/reactlive-/index.html",
+    "main.1eab8101.css.map": "/reactlive-/static/css/main.1eab8101.css.map",
+    "main.9178e2f2.js.map": "/reactlive-/static/js/main.9178e2f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eab8101.css",
+    "static/js/main.9178e2f2.js"
+  ]
+}
